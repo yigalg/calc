@@ -91,7 +91,7 @@
 
     </build>
     <scm>
-             <developerConnection>scm:svn:https://svn.mycompany.com/repos/myapplication/trunk/mycomponent/</developerConnection>
+         <developerConnection>scm:svn:https://svn.mycompany.com/repos/myapplication/trunk/mycomponent/</developerConnection>
     </scm>
 
 </project>
