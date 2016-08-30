@@ -128,7 +128,7 @@ public class CalcTest {
         Assert.assertTrue(24 == result.get("i"));
         Assert.assertTrue(50 == result.get("j"));
         Assert.assertTrue(51 == result.get("h"));
-        Assert.assertTrue(24 == result.get("x"));
+        Assert.assertTrue(240 == result.get("x"));
     }
 
 
