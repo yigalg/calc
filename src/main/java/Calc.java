@@ -68,7 +68,7 @@ public class Calc {
 
             return cev.getMemory();
         } catch (ParseCancellationException pce) {
-            throw new RuntimeException("The parser encountered an error in the input. ");
+            throw new RuntimeException("The parser encountered an error in the input.");
         }
     }
 
