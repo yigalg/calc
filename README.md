@@ -1,2 +1,2 @@
-# calc
+# calculator
 test calculator 
