@@ -94,6 +94,8 @@
                     <name>calc</name>
                     <distribution>calc</distribution>
                     <group>Application/Internet</group>
+                </configuration>
+
             </plugin>
         </plugins>
 
